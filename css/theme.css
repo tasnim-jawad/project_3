@@ -1,0 +1,52 @@
+:root{
+    --pg:#555555;
+    --brand1:#0872b9;
+    --brand2:#5bc5f4;
+    --white:#ffffff;
+    --black:#353535;
+    --border:1px solid red;
+}
+
+p{
+    font-size: 13px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "open-sans-regular";
+}
+
+
+@font-face {
+    font-family: 'open-sans-regular';
+    src: url('../fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'myriad-pro-regular';
+    src: url('../fonts/myriad-pro-cufonfonts/MYRIADPRO-REGULAR.OTF');
+}
+
+@font-face {
+    font-family: 'oswald-bold';
+    src: url('../fonts/Oswald/static/Oswald-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../fonts/Lato/Lato-Bold.ttf');
+}
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato/Lato-Regular.ttf');
+}
+@font-face {
+    font-family: 'pacifico-regular';
+    src: url('../fonts/Pacifico/Pacifico-Regular.ttf');
+}
+@font-face {
+    font-family: 'PTSans-Bold';
+    src: url('../fonts/PT_Sans/PTSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'PTSans-Regular';
+    src: url('../fonts/PT_Sans/PTSans-Regular.ttf');
+}
